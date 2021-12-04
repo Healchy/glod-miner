@@ -41,6 +41,7 @@ def main():
 
     w, h = player_gamer.get_size()
 
+
     while True:
         Clock.tick(120)
         pygame.display.flip()
